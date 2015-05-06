@@ -1,0 +1,3 @@
+[ SDL ] - SDL Init - Ok
+[ SDL ] - VideoMode 500x500 @ 32bits - Ok
+[ SDL ] - Set Window Title - Ok
